@@ -1,4 +1,4 @@
-import math, os
+import math
 
 value = int(input("Enter the value to convert it into fahrenheit then celcius"))
 
